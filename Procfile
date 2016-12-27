@@ -1,1 +1,1 @@
-web: gunicorn StudentSite.wsgi --log-file -
+web: gunicorn block3.wsgi --log-file -
